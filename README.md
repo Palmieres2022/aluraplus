@@ -1,6 +1,6 @@
 <h1 align="center"> Projeto Aluraplus </h1>
 
-[Logo do Alura+](https://github.com/Palmieres2022/aluraplus/blob/main/imagens/Logo.png?raw=true)
+<img src="https://github.com/Palmieres2022/aluraplus/blob/main/imagens/Logo.png?raw=true">
 
 
 <h2 align="left"> Descrição do Projeto </h2>
