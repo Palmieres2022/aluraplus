@@ -1,4 +1,4 @@
-:root { /* o root server pra criar as variaveis de cores de acordo com o figma do projeto, assim não precissa ficar colocando código de cores em todo o CSS*/
+:root { 
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;--botao-azul: #1678f7; 
     --cor-de-fundo:#00030c;
